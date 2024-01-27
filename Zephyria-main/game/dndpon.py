@@ -19,7 +19,7 @@ class_stats = {
     "Bard": {"strength": 0, "dexterity": 0, "constitution": 0, "intelligence": 0, "wisdom": 0, "charisma": 3},
     "Warlock": {"strength": 0, "dexterity": 0, "constitution": 0, "intelligence": 0, "wisdom": 0, "charisma": 3},
     "Wizard": {"strength": 0, "dexterity": 0, "constitution": 0, "intelligence": 3, "wisdom": 0, "charisma": 0},
-}
+} 
 
 # Dictionary to store race stats
 race_stats = {
